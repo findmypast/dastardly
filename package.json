@@ -4,7 +4,8 @@
   "description": "A client library for mountebank testing api",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "mountebank": "node ./node_modules/mountebank/bin/mb"
   },
   "repository": {
     "type": "git",
