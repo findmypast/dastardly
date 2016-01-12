@@ -1,6 +1,6 @@
 {
   "name": "dastardly",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A client library for mountebank testing api",
   "main": "src/index.js",
   "scripts": {
